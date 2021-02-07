@@ -30,7 +30,7 @@ function myFunc() {
             document.getElementById('result').innerHTML = 'Outlook not so good';
             break;
         case (randomNumber = 7):
-            document.getElementById('result').innerHTML = 'Cannot predict now';
+            document.getElementById('result').innerHTML = 'Not sure';
             break;
         default:
             document.getElementById('result').innerHTML = '';
