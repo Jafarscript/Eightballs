@@ -1,5 +1,5 @@
 body{
-    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url(/img/42-15397571.jpg) center center no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url(https://res.cloudinary.com/dvo8xhx6r/image/upload/v1612112931/sample.jpg) center center no-repeat;
     background-size: cover;
 }
 .content {
@@ -16,7 +16,7 @@ body{
 }
 p{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-weight: 400;
+    font-weight: 410;
 }
 label{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
