@@ -1,5 +1,5 @@
 body{
-    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url(https://res.cloudinary.com/dvo8xhx6r/image/upload/v1612112931/sample.jpg) center center no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url(https://res.cloudinary.com/dvo8xhx6r/image/upload/v1612112931/sample.jpg) no-repeat;
     background-size: cover;
 }
 .content {
